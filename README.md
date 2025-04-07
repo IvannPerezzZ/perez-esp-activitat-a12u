@@ -22,6 +22,7 @@ cd portfoli-tecnic-markdown
 
 ## Tasques fetes
 |Crear repositori                   |
+|-----|
 |Crear README amb elements avançats |
 |Penjar la tasca a GitHub           |
 
