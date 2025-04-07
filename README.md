@@ -20,7 +20,16 @@ cd portfoli-tecnic-markdown
 - [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
 - [`.gitignore` oficial](https://git-scm.com/docs/gitignore)
 
+## Criteris d'avaluació
 
+| Criteris                                      |Punts|
+|--------------------|--------------------------------|
+| Claredat i estructura de les instruccions     |   2 |
+| Dificultat i originalitat de la proposta      |   2 |
+| Ús correcte i complet del Markdown            |   2 |
+| Explicació d’un concepte nou                  |   2 |
+| Organització del repositori                   |   2 |
+| Total de punts                                |   10|
 ## `.gitignore`
 ```bash
 *.log
