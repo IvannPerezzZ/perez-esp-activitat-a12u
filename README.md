@@ -20,6 +20,12 @@ cd portfoli-tecnic-markdown
 - [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
 - [`.gitignore` oficial](https://git-scm.com/docs/gitignore)
 
+## Tasques fetes
+Crear repositori
+Crear README amb elements avançats
+Penjar la tasca a GitHub
+
+
 ## Criteris d'avaluació
 
 | Criteris                                      |Punts|
@@ -30,8 +36,5 @@ cd portfoli-tecnic-markdown
 | Explicació d’un concepte nou                  |   2 |
 | Organització del repositori                   |   2 |
 | Total de punts                                |   10|
-## `.gitignore`
-```bash
-*.log
-/classe/
-config.tmp
+
+
