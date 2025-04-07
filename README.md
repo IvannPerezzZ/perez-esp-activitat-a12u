@@ -21,9 +21,9 @@ cd portfoli-tecnic-markdown
 - [`.gitignore` oficial](https://git-scm.com/docs/gitignore)
 
 ## Tasques fetes
-Crear repositori
-Crear README amb elements avançats
-Penjar la tasca a GitHub
+|Crear repositori                   |
+|Crear README amb elements avançats |
+|Penjar la tasca a GitHub           |
 
 
 ## Criteris d'avaluació
