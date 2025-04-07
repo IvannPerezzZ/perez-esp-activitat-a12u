@@ -10,6 +10,11 @@
 
   Convidar al col·laborador joanpardogine al teu repositori remot.
 
+## Clonar repositori al ordinador
+> cd /c/projectes
+git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
+cd portfoli-tecnic-markdown
+
 
 
 ## Llistes de definició
