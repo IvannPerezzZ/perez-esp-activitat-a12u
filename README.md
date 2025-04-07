@@ -1,7 +1,7 @@
 # Projecte: Markdown avançat i `.gitignore`
 
 ## Objectiu
-> Practicar GitHub i Markdown avançat, i entendre el funcionament del fitxer `.gitignore`.
+> Practicar GitHub i Markdown avançat, i entendre el funcionament del fitxer `.gitignore`. Caldrà invitar a joanpardogine per poder veure l'activitat quan la pujeu.
 
 ## Estructura
 | Element      | Descripció                          |
