@@ -20,16 +20,6 @@ cd portfoli-tecnic-markdown
 - [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
 - [`.gitignore` oficial](https://git-scm.com/docs/gitignore)
 
-## Taula comparativa
-taula = [
-    ["Funcionalitat", "Disponible", "Notes"],
-    [".gitignore", "✅", "Evita pujar fitxers innecessaris"],
-    ["README.md", "✅", "Explica què fa el projecte"],
-    ["Imatges", "✅", "Inserides via enllaç extern"],
-    ["Quotes", "✅", "Per destacar idees importants"],
-    ["Enllaços", "✅", "A recursos útils"],
-    ["Taules", "✅", "Com aquesta"],
-    ["Llistes definició", "✅", "Per explicar conceptes tècnics"]
 
 ## `.gitignore`
 ```bash
