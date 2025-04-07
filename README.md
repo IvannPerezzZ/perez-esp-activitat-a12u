@@ -3,11 +3,14 @@
 ## Objectiu
 > Practicar GitHub i Markdown avançat, i entendre el funcionament del fitxer `.gitignore`. Caldrà invitar a joanpardogine per poder veure l'activitat quan la pujeu.
 
-## Estructura
-| Element      | Descripció                          |
-|--------------|--------------------------------------|
-| README.md    | Documentació del projecte.            |
-| .gitignore   | Fitxer per ignorar arxius.            |
+## Crear el repositori
+> NO marcar "Add a README file".
+
+  Clicar Create repository.
+
+  Convidar al col·laborador joanpardogine al teu repositori remot.
+
+
 
 ## Llistes de definició
 Markdown  
