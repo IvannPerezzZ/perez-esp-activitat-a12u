@@ -6,8 +6,8 @@
 ## Estructura
 | Element      | Descripció                          |
 |--------------|--------------------------------------|
-| README.md    | Documentació del projecte            |
-| .gitignore   | Fitxer per ignorar arxius            |
+| README.md    | Documentació del projecte.            |
+| .gitignore   | Fitxer per ignorar arxius.            |
 
 ## Llistes de definició
 Markdown  
